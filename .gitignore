@@ -1,0 +1,7 @@
+*.pfx
+
+bin
+obj
+.vs
+
+*.user
